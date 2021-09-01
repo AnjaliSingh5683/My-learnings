@@ -1,0 +1,11 @@
+public class BarkingDog {
+ public static boolean shouldWakeUp(boolean a , int k)
+ {
+     if(a==false)
+     return false;
+     if(k<8&&k>=0||k>22&&k<=23)
+     return true;
+     else
+     return false;
+ }
+}
