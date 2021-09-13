@@ -10,3 +10,4 @@ P - 8 Area Calculator.<br>
 P - 9 Minutes To Years And Days Calculator. <br>
 P - 10 Number In Word
 P - 11 Number Of Days In Month
+P - 12 Sum Odd
